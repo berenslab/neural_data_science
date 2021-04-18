@@ -3,8 +3,8 @@
 This repository contains the programming labs and lecture notes for the lecture "Neural Data Science" tought at [University of Tübingen](www.uni-tuebingen.de) in the summer term 2021.
 
 ## General Information
-Lecturer: [Philipp Berens](mailto:philipp.berens@uni-tuebingen.de) <br>
-Lab: [(homepage)](www.berenslab.org)<br>
+Lecturer: [Philipp Berens](mailto:philipp.berens@uni-tuebingen.de) [twitter](https://twitter.com/CellTypist) <br>
+Lab: [homepage](www.berenslab.org)<br>
 Lecture videos: [Youtube](https://www.youtube.com/playlist?list=PL05umP7R6ij3SxudmSWFL_zGh0BMrRdrx)<br>
 Developed by: [Alexander Ecker](www.eckerlab.org), [Philipp Berens](mailto:philipp.berens@uni-tuebingen.de)
 
