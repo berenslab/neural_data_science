@@ -4,7 +4,9 @@ This repository contains the programming labs and lecture notes for the lecture 
 
 ## General Information
 Lecturer: [Philipp Berens](mailto:philipp.berens@uni-tuebingen.de) 
+
 Lab: [(homepage)](www.berenslab.org)
+
 Lecture videos: [Youtube](https://www.youtube.com/playlist?list=PL05umP7R6ij3SxudmSWFL_zGh0BMrRdrx)
 
 Developed by: [Alexander Ecker](www.eckerlab.org), [Philipp Berens](mailto:philipp.berens@uni-tuebingen.de)
