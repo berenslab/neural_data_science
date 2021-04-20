@@ -17,4 +17,4 @@ Machine learning techniques are frequently used in modern neuroscience to analys
 You need to download the data package: http://doi.org/10.5281/zenodo.4704658
 
 ## Content
-1. Spike Detection and Feature Extraction: [lecture](https://youtu.be/8xeC5CV4UB8), [coding lab](notebook/CodingLab1.ipynb)
+1. Spike Detection and Feature Extraction: [lecture](https://youtu.be/8xeC5CV4UB8), [coding lab](notebooks/CodingLab1.ipynb)
